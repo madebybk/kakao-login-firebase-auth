@@ -1,0 +1,17 @@
+{
+  "name": "kakao-login-firebase-auth",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "repository": "https://github.com/madebybk/kakao-login-firebase-auth.git",
+  "author": "Outsome",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.11.1"
+  }
+}
